@@ -3,6 +3,7 @@
 这是一个基于嵌入式 Linux framebuffer、触摸屏、按键、PWM、LED 的课程设计项目，用来实现一个“温湿度智能控制系统”的演示界面和底层控制逻辑。
 
 本项目已经在 **64 位 GEC6818 开发板** 上跑通，系统为 **Weicheng 自行移植与适配的 Ubuntu 16.04.6 LTS**，属于当前项目的核心运行环境之一。也就是说，这不是完全照搬学校提供环境的“原样例程”，而是在真实开发板和真实系统环境上完成的一套完整适配版本。
+<img width="1707" height="1280" alt="a4fb3c407e5bfa4193a71eb9cccb9037" src="https://github.com/user-attachments/assets/f262c7b4-5dd5-453e-a4ef-689df41411c3" />
 
 ---
 
